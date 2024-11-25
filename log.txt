@@ -1,0 +1,12 @@
+Datos recibidos: Marca=1, Tipo=5, Patente=AD236KL
+Datos recibidos: Marca=5, Tipo=5, Patente=45MJ23
+Datos recibidos: Marca=Selecciona una opción, Tipo=2, Patente=AS45LO
+Datos recibidos: Marca=Selecciona una opción, Tipo=2, Patente=AS45LO
+Datos recibidos: Marca=Selecciona una opción, Tipo=2, Patente=AS45LO
+Datos recibidos: Marca=6, Tipo=1, Patente=AS023LM
+Datos recibidos: Marca=5, Tipo=3, Patente=AE145DF
+Datos recibidos: Marca=5, Tipo=3, Patente=AE145DF
+Datos recibidos: Marca=6, Tipo=2, Patente=AS056LM
+Datos recibidos: Marca=6, Tipo=2, Patente=AS056LM
+Datos recibidos: Marca=6, Tipo=5, Patente=AW235AJ
+Datos recibidos: Marca=1, Tipo=4, Patente=AD256TY
